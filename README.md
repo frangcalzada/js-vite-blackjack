@@ -1,5 +1,7 @@
 # BalckJack Vite
 
+Play: https://frangcalzada.github.io/js-vite-blackjack/
+
 1. Clone repository
 2. Run ```npm install``` to rebuild the node modules
 3. Run the devServer ```npm run dev```
